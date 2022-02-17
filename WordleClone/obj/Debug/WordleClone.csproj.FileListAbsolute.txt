@@ -1,0 +1,10 @@
+C:\Users\18058\source\repos\WordleClone\WordleClone\bin\Debug\WordleClone.exe.config
+C:\Users\18058\source\repos\WordleClone\WordleClone\bin\Debug\WordleClone.exe
+C:\Users\18058\source\repos\WordleClone\WordleClone\bin\Debug\WordleClone.pdb
+C:\Users\18058\source\repos\WordleClone\WordleClone\bin\Debug\NetSpell.SpellChecker.dll
+C:\Users\18058\source\repos\WordleClone\WordleClone\bin\Debug\NetSpell.SpellChecker.xml
+C:\Users\18058\source\repos\WordleClone\WordleClone\obj\Debug\WordleClone.csproj.CoreCompileInputs.cache
+C:\Users\18058\source\repos\WordleClone\WordleClone\obj\Debug\WordleClone.csproj.CopyComplete
+C:\Users\18058\source\repos\WordleClone\WordleClone\obj\Debug\WordleClone.exe
+C:\Users\18058\source\repos\WordleClone\WordleClone\obj\Debug\WordleClone.pdb
+C:\Users\18058\source\repos\WordleClone\WordleClone\bin\Debug\wordDictionary.txt
